@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# keep challenge artifacts out of the repo
+*.pcap
+*.dat
+*.zip
+objects/
